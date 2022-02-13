@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.3;
+    color: #333;
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+    font-variant: small-caps;
+    letter-spacing: 0.2em;
+    text-align: center;
+    color: yellowgreen;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    color: maroon;
+    text-shadow: .1em.1em.1emrgba (0,0,0,.5);
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+    color: orangered;
+}
+
+blockquote {
+    color:mediumturquoise;
+}
+
+dt {
+    color: green;
+}
+
+dd {
+    color:lightskyblue;
+}
+
+ul {
+    list-style-image: url(marker-2.png);
+    list-style-position: inside
+}
+
+li {
+    color:lightcoral;
+}
+
+i {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color:dimgray;
+}
